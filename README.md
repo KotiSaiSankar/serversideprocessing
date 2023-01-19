@@ -127,10 +127,6 @@ def volumeofcuboid(request):
 ## OUTPUT:
 ![output](./value.png)
 
-### Home Page:
-
-![home](./homevolume.png)
-
 
 ## Result:
 Thus a website has been successfully created to perform mathematical calculations in server side.
